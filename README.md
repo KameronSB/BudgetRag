@@ -168,4 +168,4 @@ If the answers seem unrelated, rebuild the index and confirm that `AnimalFacts.c
 
 ## License
 
-No license has been added yet. Add one before using this project in a public or collaborative setting.
+No license is needed, use how ever you want =)
